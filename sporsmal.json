@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "title": "Hvem vant VM 2022?",
+      "answers": [
+        { "answer": "Norge" },
+        { "answer": "Brazil" },
+        { "answer": "Frankrike" },
+        { "answer": "Argantina", "correct": true }
+      ],
+      "helper": {
+        "text": "Messsssssssssssssssi."
+      }
+    },
+    {
+      "title": "Hvem av disse bilene er tysk merke?",
+      "answers": [
+        { "answer": "Ford" },
+        { "answer": "Tesla" },
+        { "answer": "BMW", "correct": true },
+        { "answer": "Volvo" }
+      ],
+      "helper": {
+        "text": " bi med tre bokstaver"
+      }
+    },
+    {
+      "title": "Hvilket land vant noe overraskende fotball-EM i 1992 ved å slå Tyskland 2-0 i finalen?",
+      "answers": [
+        { "answer": "Gana" },
+        { "answer": "Danmark", "correct": true },
+        { "answer": "Tyskland" },
+        { "answer": "USA" }
+      ],
+      "helper": {
+        "text": " EM- mot Tyskland, en ann hit (Skandinavisk)."
+      }
+    },
+    {
+      "title": "Hva er verdens lengste elv?",
+      "answers": [
+        { "answer": "Glømma" },
+        { "answer": "Nilen", "correct": true },
+        { "answer": "Amazonas" },
+        { "answer": "Everst" }
+      ],
+      "helper": {
+        "text": " Går fjnoom flere land i Afrika."
+      }
+    }
+  ]
+}
